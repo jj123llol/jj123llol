@@ -1,16 +1,17 @@
-## Hi there 👋
+# About me
 
-<!--
-**jj123llol/jj123llol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly go by ant, or JJJ.
 
-Here are some ideas to get you started:
+## coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started coding in around 2022 and my first project was basically just a chat bypasser that I added to.
+
+## My current projects
+
+I am currently working on Plasma Admin, and Plasma Eagler.
+
+## Music
+
+I listened to a lot of songs from brahman, an alis used by the artist "lil darkie" in 2016.
+
+I listen to a few songs by elijah who, and atlas.
