@@ -12,6 +12,8 @@ I am currently working on Plasma Admin, and Plasma Eagler.
 
 ## Music
 
-I listened to a lot of songs from brahman, an alis used by the artist "lil darkie" in 2016.
+I listen to a lot of songs from brahman, an alis used by the artist "lil darkie" in 2016.
 
 I listen to a few songs by elijah who, and atlas.
+
+I also listen to a artist who only has a few songs with words, who goes by cawson or polo swag on soundcloud.
